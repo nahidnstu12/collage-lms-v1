@@ -1,5 +1,4 @@
 import styles from './index.module.scss';
-import React from 'react';
 
 export function Index() {
   /*
@@ -14,7 +13,7 @@ export function Index() {
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              Welcome admin 👋
+              Welcome student 👋
             </h1>
           </div>
 
