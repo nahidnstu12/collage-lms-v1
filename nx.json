@@ -50,6 +50,6 @@
         "linter": "eslint"
       }
     }
-  },
-  "defaultProject": "admin"
+  }
+  
 }

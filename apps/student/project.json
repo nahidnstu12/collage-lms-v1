@@ -23,6 +23,7 @@
       "executor": "@nrwl/next:server",
       "defaultConfiguration": "development",
       "options": {
+        
         "buildTarget": "student:build",
         "dev": true
       },
